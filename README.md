@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/nacient/XCode/_apis/build/status/XCode-CI)](https://dev.azure.com/nacient/XCode/_build/latest?definitionId=2)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
